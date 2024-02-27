@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+    text-align: center;
+}
+
+div {
+    
+    padding: 20px;
+    margin: 30px 120px 30px 120px;
+    color: black;
+    border-radius: 15px;
+    /* display: flex; */
+    max-width: 1200px;
+    font-size: 32px;
+    font-family: Inter;
+    text-align: center;
+   
+}
+
+.hoby {
+    border: 1px solid black;
+    background-color: white;
+    /* text-align: center; */
+}
+
+.work {
+    background-color: black;
+    border: 1px solid lime;
+    color: white;
+    /* text-align: center; */
+}
+
+.family {
+    border: 1px solid black;
+    background-color: red;
+    padding: 80px;
+    /* text-align: center; */
+    font-weight: 600;
+    color: white;
+}
+
+.img {
+    display: flex;
+    width: 478px;
+    height: 453px;
+    border: none;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
